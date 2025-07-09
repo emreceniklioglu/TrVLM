@@ -105,7 +105,7 @@ base model ağırlıkları
 
 fine-tuned LoRA adapter ağırlıkları
 
-💾 Tüm bu dosyalar aşağıdaki Google Drive bağlantısında mevcuttur:
+💾 Tüm bu dosyalar aşağıdaki Google Drive bağlantısında mevcuttur: https://drive.google.com/drive/folders/1qOTla01iS1-oMJRx9p15hfg6wQ-4-4E4?usp=drive_link
 
 Ardından !python inference.py komutu ile inference ortamını başlatabilirsiniz:
 
